@@ -9,12 +9,12 @@
   <li>Задача № 6. Написать отчет о тестировании.</li> 
  <p>
 <p>Как решал: 
-<li> Тестирование требований: несоответствующие критериям хороших требований формулировки и вопросы, возникшие по ним, объединены в <a href="Skyeng mobile/Requirement testing.pdf">таблицу</a>.</li>
-<li>Выбор окружения для тестирования проведен на основании предоставленных статистических данных и оформлен в виде <a href="Skyeng mobile/Test environment.pdf">таблицы</a>.</li>
-<li>Подготовлены <a href="Skyeng mobile/Checklists_mobile.pdf">чек-листы</a> на основании предоставленной документации.</li>
-<li>Тестирование проведено на <a href="Skyeng mobile/Android Studio.png">эмуляторе</a> в Android Studio.</li>
-<li>Подмена ответа выполнена при помощи сниффера трафика Charles Proxy с использованием функции Breakpoints (<a href="Skyeng mobile/Response breakpoint.pdf">пример использования инструмента</a>).</li>
-<li>По результатам тестирования составлен <a href="Skyeng mobile/Test report_mobile.pdf">отчет</a> (<a href="Skyeng mobile/Bag reports_example.pdf">примеры баг-репортов</a>).</li>
+<li> Тестирование требований: несоответствующие критериям хороших требований формулировки и вопросы, возникшие по ним, объединены в <a href="Requirement testing.pdf">таблицу</a>.</li>
+<li>Выбор окружения для тестирования проведен на основании предоставленных статистических данных и оформлен в виде <a href="Test environment.pdf">таблицы</a>.</li>
+<li>Подготовлены <a href="Checklists_mobile.pdf">чек-листы</a> на основании предоставленной документации.</li>
+<li>Тестирование проведено на <a href="Android Studio.png">эмуляторе</a> в Android Studio.</li>
+<li>Подмена ответа выполнена при помощи сниффера трафика Charles Proxy с использованием функции Breakpoints (<a href="Response breakpoint.pdf">пример использования инструмента</a>).</li>
+<li>По результатам тестирования составлен <a href="Test report_mobile.pdf">отчет</a> (<a href="Bag reports_example.pdf">примеры баг-репортов</a>).</li>
 <p>
  <p>Итоги:<p>
 <ol>
